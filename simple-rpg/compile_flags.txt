@@ -1,0 +1,9 @@
+-IC:\Users\agnie\C++learning\C++learning1\testerd
+-IC:\mingw32\lib\gcc\i686-w64-mingw32\8.1.0\include\c++
+-IC:\mingw32\lib\gcc\i686-w64-mingw32\8.1.0\include\c++\i686-w64-mingw32
+-IC:\mingw32\lib\gcc\i686-w64-mingw32\8.1.0\include\c++\backward
+-IC:\mingw32\lib\gcc\i686-w64-mingw32\8.1.0\include
+-IC:\mingw32\lib\gcc\i686-w64-mingw32\8.1.0\include-fixed
+-IC:\mingw32\i686-w64-mingw32\include
+-target
+i686-w64-mingw32
